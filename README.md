@@ -1,4 +1,4 @@
-Miami Landing Page
+Creative Bakery Landing page
 
 Stack: HTML5, SCSS, BEM
 
